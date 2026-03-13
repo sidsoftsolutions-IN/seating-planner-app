@@ -25,7 +25,14 @@ School Administrators
 
 The app is particularly useful during board examinations and internal school exams where quick and accurate seating arrangements are required.
 
-Download the App
+## 📲 Download the App
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c9f6287a-4304-46c7-9cbe-9cedaae1d273" width="200">
+</p>
+
+Scan the QR code or search **"Seating Planner"** on Google Play.
+
 You can download the app from the Google Play Store:
 
 https://play.google.com/store/apps/details?id=com.sidsoftsolutions.seatingplan
@@ -46,13 +53,6 @@ https://play.google.com/store/apps/details?id=com.sidsoftsolutions.seatingplan
 
 ---
 
-## 📲 Download the App
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/c9f6287a-4304-46c7-9cbe-9cedaae1d273" width="200">
-</p>
-
-Scan the QR code or search **"Seating Planner"** on Google Play.
 
 Benefits
 
