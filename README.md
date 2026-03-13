@@ -41,8 +41,9 @@ https://play.google.com/store/apps/details?id=com.sidsoftsolutions.seatingplan
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b61d7a5c-709f-43c9-a17b-5f3e5922eb98" width="230">
-<img src="https://github.com/user-attachments/assets/53b8fc31-06f0-483e-91c4-d36e2fe77b3f" width="230">
-<img src="https://github.com/user-attachments/assets/b6868550-1cd1-4df2-900b-b79fb068b2f5" width="230">
+<img src="https://github.com/user-attachments/assets/7a4cee4b-1a86-4035-84dc-33ef37f0c66e" width="230">
+<img src="https://github.com/user-attachments/assets/da778639-e305-47d2-b61d-e06efd6a926d" width="230"/>
+
 </p>
 
 <p align="center">
