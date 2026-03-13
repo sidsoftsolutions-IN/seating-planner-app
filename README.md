@@ -1,5 +1,3 @@
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.sidsoftsolutions.seatingplan)
-
 Seating Planner – Exam Seating Plan Generator
 
 Seating Planner is an Android application designed for schools and examination centres to quickly generate organized exam seating plans. The app helps teachers and administrators create seating arrangements automatically based on roll number series and classroom configuration.
@@ -25,17 +23,6 @@ School Administrators
 
 The app is particularly useful during board examinations and internal school exams where quick and accurate seating arrangements are required.
 
-## 📲 Download the App
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/c9f6287a-4304-46c7-9cbe-9cedaae1d273" width="200">
-</p>
-
-Scan the QR code or search **"Seating Planner"** on Google Play.
-
-You can download the app from the Google Play Store:
-
-https://play.google.com/store/apps/details?id=com.sidsoftsolutions.seatingplan
 
 ## 📸 App Screenshots
 
@@ -54,6 +41,17 @@ https://play.google.com/store/apps/details?id=com.sidsoftsolutions.seatingplan
 
 ---
 
+## 📲 Download the App
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c9f6287a-4304-46c7-9cbe-9cedaae1d273" width="200">
+</p>
+
+Scan the QR code or search **"Seating Planner"** on Google Play.
+
+You can download the app from the Google Play Store:
+
+https://play.google.com/store/apps/details?id=com.sidsoftsolutions.seatingplan
 
 Benefits
 
@@ -72,5 +70,5 @@ This repository is for app promotion and information purposes only.
 The source code is not publicly available.
 
 
-
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.sidsoftsolutions.seatingplan)
 
