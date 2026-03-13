@@ -1,9 +1,7 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d3ba1ecc-f77b-4398-b966-245ee80d002e" width="200"/>
 </p>
-<p align="center">
-# Seating Planner – Exam Seating Plan Generator
-</p>
+<h1 align="center">Seating Planner – Exam Seating Plan Generator</h1>
 Seating Planner is an Android application designed for schools and examination centres to quickly generate organized exam seating plans. The app helps teachers and administrators create seating arrangements automatically based on roll number series and classroom configuration.
 
 It eliminates the need for manual seating plan preparation and generates ready-to-print PDF seating charts within seconds.
