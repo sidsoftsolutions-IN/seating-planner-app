@@ -46,7 +46,7 @@ The app is particularly useful during board examinations and internal school exa
 ## 📲 Download the App
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c9f6287a-4304-46c7-9cbe-9cedaae1d273" width="200">
+<img src="https://github.com/user-attachments/assets/be02a2fe-4fe8-4a6f-b8e5-56bcb6a93982" width="200">
 </p>
 
 Scan the QR code or search **"Seating Planner"** on Google Play.
